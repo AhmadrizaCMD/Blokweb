@@ -35,7 +35,8 @@ Responsive
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  link naar de website: https://www.lamborghini.com/en-en
+  Omschrijving: Lamborgini is een sportauto website waar je kunt kijken wat het is en welke auto's er allemaal zijn.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
