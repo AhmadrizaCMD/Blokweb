@@ -40,8 +40,11 @@ Responsive
   Omschrijving: Lamborgini is een sportauto website waar je kunt kijken wat het is en welke auto's er allemaal zijn.
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Home pagina 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+![www lamborghini com_en-en](https://github.com/AhmadrizaCMD/Blokweb/assets/150698950/49772b8c-3d68-4153-9807-ed7902682c51)
+
+  
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
