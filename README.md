@@ -41,6 +41,7 @@ Responsive
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina 
+  
   <img src="images/Scherm­afbeelding 2023-11-23 om 17.19.21.png" width="375px" alt="omschrijving van de pagina">
 
 
