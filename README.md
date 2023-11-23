@@ -48,8 +48,9 @@ Responsive
   
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ Beyond pagina 
+ 
+  <img src="images/Scherm­afbeelding 2023-11-23 om 17.23.34.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
