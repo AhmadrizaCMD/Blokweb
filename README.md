@@ -113,7 +113,8 @@ Responsive
           - Hoe spreek ik mijn gewenste images aan? Ze zitten allemaal boven een h3 dus mis kan ik daar wat mee.
           - Marquee, hoe werkt het met screenreader en hoe maak ik drie verschillende berichtjes?
 
-  Niels:
+  Niels:  - ik wil weten hoe ik de knoppen beter kan centreren en de specifieke vormgeving aan kan passen
+          - weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier hoe kan ik de screenreader                goed maken.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
