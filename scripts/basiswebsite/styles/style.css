@@ -1,0 +1,112 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;
+  margin: 0%;
+  padding: 0%;  
+}
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+	--colorheader: #202020;
+    --textcolorhf: aliceblue;
+}
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.google.com/specimen/Roboto-Regular.ttf');
+    font-weight: 100 ;
+    font-style: normal;
+    font-display: fallback;
+  }
+
+@font-face {
+    font-family: 'Robotobold';
+    src: url('https://fonts.google.com/specimen/Roboto-Bold.ttf');
+    font-weight: 100 ;
+    font-style: bold;
+    font-display: fallback;
+  }
+
+  @font-face {
+    font-family: 'Robotolight';
+    src: url('https://fonts.google.com/specimen/Roboto-Light.ttf');
+    font-weight: 100 ;
+    font-style: light;
+    font-display: fallback;
+  }
+
+@font-face {
+    font-family: 'Robotomedium';
+    src: url('https://fonts.google.com/specimen/Roboto-Medium.ttf');
+    font-weight: 100 ;
+    font-style: medium;
+    font-display: fallback;
+  }
+
+
+
+header, footer{
+    background:var( --colorheader);
+    color: var(--textcolorhf); 
+    padding: 1em;
+   
+} 
+
+header figure{
+    display: flex;
+}
+
+header figure img:nth-child(1){
+    margin-right: auto;
+}
+
+header figure img:nth-child(2), header figure img:nth-child(3), header figure img:nth-child(4){
+    min-width: 5%;
+    margin-right: 1em;
+}
+
+nav ul{
+    display: flex;
+    list-style: none; 
+    gap: 1em;
+}
+
+nav ul li:nth-child(4){
+    margin-right: auto;
+    
+}
+
+nav ul li a{
+    display: flex;
+    color: var( --textcolorhf);
+    text-decoration: none;  
+    font-family:'Roboto';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+h1, h2{
+    font-family: 'Robotobold';
+}
+
+p{
+    font-family: 'Roboto';
+}
+
