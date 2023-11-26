@@ -42,7 +42,7 @@ Responsive
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina 
   
-  <img src="readme-images/home.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/beyond.png" width="375px" alt="omschrijving van de pagina">
 
 
   
@@ -50,7 +50,7 @@ Responsive
   #### Screenshot(s) van de tweede pagina (small screen):
  Beyond pagina 
  
-  <img src="readme-images/beyond.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/home.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
