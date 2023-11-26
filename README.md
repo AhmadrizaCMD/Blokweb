@@ -119,10 +119,12 @@ Responsive
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die werd uiteraard behandeld met uitleg. Bij dit gesprek heb ik niet alleen antwoord gekregen van mijn vragen maar ook weer bijgeleerd van de vragen van mijn clubje. 
+
+- Doordat ik het video source niet kon vinden of eigenlijk wel kon vinden maar niet kon gebruiken omdat het beveiligd was mocht ik een alternatief opzoeken en die gebruiken met de <video> tag.
+- Als 2e wat ook intressant was, was het gedeelte hoe je in de header (nav) responsive maakt dat naarmate het scherm groter wordt je meer te zien krijgt. Hiervoor kon je 2 functies voor gebruiken: flex en grid. Ook kon je d.m.v. de @media (min/max/ hight) tag erovor zorgen dat het responsive wordt.
+
+
 
 </details>
 
