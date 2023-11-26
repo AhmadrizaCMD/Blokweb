@@ -50,7 +50,7 @@ Responsive
   #### Screenshot(s) van de tweede pagina (small screen):
  Beyond pagina 
  
-  <img src="readme-images/Scherm­afbeelding 2023-11-23 om 17.23.34.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/beyond.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -74,10 +74,10 @@ Responsive
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
  Home pagina 
-  <img src="readme-images/Scherm­afbeelding 2023-11-23 om 17.19.21.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Homebreakdown.png" width="375px" alt="omschrijving van de pagina">
 
  Beyond pagina 
-  <img src="readme-images/Scherm­afbeelding 2023-11-23 om 17.23.34.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/Beyondbreakdown.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
