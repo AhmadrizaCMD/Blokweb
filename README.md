@@ -96,8 +96,7 @@ Responsive
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  Namen:
+c  Namen:
   
   Merle:
 
@@ -111,7 +110,7 @@ Responsive
           - Marquee, hoe werkt het met screenreader en hoe maak ik drie verschillende berichtjes?
 
   Niels:  - ik wil weten hoe ik de knoppen beter kan centreren en de specifieke vormgeving aan kan passen
-          - weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier hoe kan ik de screenreader                goed maken.
+          - weten hoe ik de verschillende afbeeldingen een eigen stijl kan geven op een makkelijke manier hoe kan ik de screenreader goed maken.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -140,14 +139,23 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
 
   ### Agenda voor meeting
   samen met je groepje opstellen
+  Namen:
+  
+  Merle: - Ik krijg met flexbox en grid mijn ‘li’ niet gecentreerd en op de plek waar ik hem wil, hoe kan ik dit oplossen?
+         - Wat is een mooie volgorde om mijn css in te schrijven? Sanne liet zien welke volgorde hij gebruikte, en hoe weet ik precies wat er onder welke categorie valt?
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Ahmadriza: - in m’n 3e section beter grid of flex gebruiken (responsieve)
+             - ik wil m’n video automatisch laten afspelen
+             - Mijn nav ook zichtbaar houden tijdens scrollen hiervoor position fixed/absolute?
+              
 
+  Quinten: - Meer duidelijkheid over het inzetten van flexbox op bepaalde elemente
+           - De fonts van sanrio er in krijgen, zijn moeilijk te vinden
+           - De form over de hele breedte te laten spannen
+           - CSS goed ordenen
 
+  Niels:  - Hoe ik de horizontale box met text die automatisch beweegt maak 
+          - Hoe ik de footer apart aanspreek zonder de code al te veel aan te passen. - Wanneer nou button en wanneer een link (precieze verschil) - nth of type mag dat steeds?
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
