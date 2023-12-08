@@ -157,12 +157,9 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   Niels:  - Hoe ik de horizontale box met text die automatisch beweegt maak 
           - Hoe ik de footer apart aanspreek zonder de code al te veel aan te passen. - Wanneer nou button en wanneer een link (precieze verschil) - nth of type mag dat steeds?
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+- het was beter om felx te gebruiken maar uiteraard kan grid ook. Flex was beter omdat je dan de volgorde makkelijker kan ordenen met de "order"
+- De video wilde ik automatisch laten afspelen en Baha had me uitgelegd welke stukje code hij ervoor had gevruikt en wat de code betekende. Uitendelijk kon ik het ook gebruiken.
+- met op de header een position fixed met een with van 100% te geven kon ik tijdens het scrollen naar benden nog steeds mijn header zien.
 
 </details>
 
@@ -196,12 +193,23 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Merle: - Hoe kan ik mijn navigatie laten werken?
+         - ⁠Wat is de beste manier om het responsief te maken?
+         - ⁠Hoeveel moet je maken met JavaScript? Als je weinig hebt, wordt dat dan meegerekend in het eindcijfer?
 
+  Ahmadriza:  - Hoe mijn video pauzeren (voor toegankelijkheid)
+              - de state visited link uitleggen 
+              - De footer responsieve maken
+              
+
+  Quinten:  - Hoe zit het met een kleiner kopje boven een belangrijker kopje, is dit bv een h2 of h3 en welke moet eerst komen (css, html)
+            - ⁠Hamburger menu, hoe verander ik het icoon
+            - ⁠Moeten de dropdowns in het hamburgermenu werken?
+            - ⁠Is het oke om layouts van lijstjes veel te veranderen voor bruikbaarhuid?
+            
+  Niels:  - Mijn svg iconen vervormen steeds, hoe kan ik het formaat aanpassen want ze zijn beveiligd op de originele website?
+          - Hoe link je precies het lettertype in de juiste map, wel gedownload op laptop maar niet in juiste map.
+          - Hoe zit het met H2 en H3, de belangrijkste tekst is een hogere h, ook al komt deze later op de website pas?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -251,8 +259,9 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Baha
+  2. Youtube: https://www.youtube.com/watch?v=GvyGNcUiJGQ
+  3. youutbe: https://www.youtube.com/watch?v=aNDqzlAKmZc&t=32s
+  4. chat GPT
 
 </details>
