@@ -76,8 +76,8 @@ Responsive
  Home pagina 
   <img src="readme-images/Homebreakdown.png" width="375px" alt="omschrijving van de pagina">
 
- Beyond pagina 
-  <img src="readme-images/Beyondbreakdown.png" width="375px" alt="omschrijving van de pagina">
+ concept pagina 
+  <img src="readme-images/iPhone 13 & 14 - 3.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
