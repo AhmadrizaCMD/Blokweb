@@ -96,7 +96,7 @@ Concept pagina
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-c  Namen:
+  Namen:
   
   Merle:
 
@@ -198,8 +198,7 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
          - ⁠Hoeveel moet je maken met JavaScript? Als je weinig hebt, wordt dat dan meegerekend in het eindcijfer?
 
   Ahmadriza:  - Hoe mijn video pauzeren (voor toegankelijkheid)
-              - de state visited link uitleggen 
-              - De footer responsieve maken
+              - Hoe de <p> veranderen als ik op de carrousel van img klik
               
 
   Quinten:  - Hoe zit het met een kleiner kopje boven een belangrijker kopje, is dit bv een h2 of h3 en welke moet eerst komen (css, html)
@@ -214,10 +213,8 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- Voor het pauzeren en afspelen van mijn video had ik javascript nodig. Na de uitleg van Sanne was het duidelijk geworden hoe je de elementen moet manipuleren in JS en hoe je d.m.v. een if state ment de button kan bedienen.
+- Om ervoor te zorgen dat als je op de link klikt en je wilt dat teskt veranderd had je hiervoor ook JS nodig. dit deed je eerst door een class aan te mkaen die de <p>, <a> en de <h3> manipuleeert. Vervolgens maak je variabele aan met de funtie "oncklclick" dxat evoor zorgt als je erop klikt dat de tekst veranderd. Als laastste moest er nog een functie aangemaakt worden dat als je op de a klikt dat dan d.m.v. ".textcontent" de tekst verschijnt die er moet staan.
 
 </details>
 
