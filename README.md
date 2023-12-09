@@ -48,9 +48,9 @@ Responsive
   
 
   #### Screenshot(s) van de tweede pagina (small screen):
- Beyond pagina 
+Concept pagina 
  
-  <img src="readme-images/home.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/www.lamborghini.com_en-en_models_concept.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
