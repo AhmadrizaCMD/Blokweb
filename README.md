@@ -64,6 +64,17 @@ Concept pagina
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  - De linkjes hadden geen unieke namen
+  - Er werden veel <div> gebruikt
+  - De focus state was nier duidelijk uitgewerkt
+  - De headings waren soms niet in goede volgorde geschreven
+  - voor list content gebruikten ze niet altijd list items
+  - bij sommige img hadden ze geen logische alt text
+  - de video kan niet worden pauzeerd
+  - video had geen caption
+  - Er is geen dark mode beschikbaar
+  - bij animaties gebruikten ze geen correcte media query
+
 </details>
 
 
