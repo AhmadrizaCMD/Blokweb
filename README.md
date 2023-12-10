@@ -186,6 +186,15 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+
+  - De linkjes heb ik voor de screenreader zinvolle namen gegeven
+  - EIk heb helemaal geen <div> gebruikt
+  - De focus state heb ik uitgewerkt dat de linkjes herkend worden als je met een screenreader mee bezig bent
+  - De headings heb ik in semantische volgorde gezet
+  - voor list content heb ik waar nodig list items gebruikt
+  - bij al mijn img heb ik alt tekst gebruikt met zinvolle namen
+  - de video heb ik toegankelijk gemaakt dat je het ook kunt pauzeren
+  - voor een van mijn pagina's heb ik geexperimenteerd met darkmode en toegepast
 </details>
 
 
