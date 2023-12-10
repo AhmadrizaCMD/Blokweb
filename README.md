@@ -239,7 +239,7 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/_Users_ahmadrizasewruttan_Documents_Frond%20end_basiswebsite_index.html.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/homepage.html.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
