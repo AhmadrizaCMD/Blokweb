@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="author" content="jouw naam" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Home Lamborghini</title>
-
-    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/styleAlgemeen.css" rel="stylesheet" />
+    <link href="styles/style1.css" rel="stylesheet" />
     <link rel="icon" type="image/svg+xml" href="images/favicon.svg" />
   </head>
 
@@ -15,22 +15,23 @@
     <header>
       <section><img src="./images/logo.webp" alt="logo Lamborghini" /></section>
 
-      <nav>
+      <nav class="off-screen-menu">
         <ul>
-          <li><a href="#">Models</a></li>
-          <li><a href="#">Beyond</a></li>
-          <li><a href="#">Ownership</a></li>
-          <li><a href="#">Motorsport</a></li>
-          <li><a href="#">Dealerships</a></li>
-          <li><a href="#">Museum</a></li>
-          <li><a href="#">Store</a></li>
+          <li><a href="#" aria-label="open page View different lambo models">Models</a></li>
+          <li><a href="#" aria-label="open page beyond the screen">Beyond</a></li>
+          <li><a href="#" aria-label="open page to ownership">Ownership</a></li>
+          <li><a href="#" aria-label="open page vieuw motorsport">Motorsport</a></li>
+          <li><a href="#" aria-label="open page the Dealerships">Dealerships</a></li>
+          <li><a href="#" aria-label="open page lambo museum">Museum</a></li>
+          <li><a href="./Concepts.html" aria-label="open page lambo store">Concepts</a></li>
         </ul>
       </nav>
 
       <section>
-        <img src="./images/berichten.png" alt="berichten" />
-        <img src="./images/zoeken.png" alt="zoeken" />
-        <img src="./images/menu.png" alt="menu" />
+        <ul class="ham-menu"><li><img src="./images/menu.png" alt="menu icon" /></li></ul>
+        <img src="./images/berichten.png" alt="messages icon" />
+        <img src="./images/zoeken.png" alt="search icon" />
+
       </section>
     </header>
 
@@ -38,33 +39,35 @@
       <section>
         <h1>From Now on</h1>
         <h2>Revuelto</h2>
-        <video controls autoplay>
-          <source
-            src="./images/pexels-ojyrai-7727416 (1080p).mp4"
-            type="video/mp4"
-          />
-        </video>
+        <video autoplay loop muted>
+          <source src="./images/pexels-ojyrai-7727416 (1080p).mp4" type="video/mp4"></video>
+          <button>play</button>
       </section>
 
       <section>
-        <h2>Models</h2>
-        <h2>Urus</h2>
-        <h3>Unlock any road</h3>
-        <ul>
-          <li>
-            <img src="./images/urus_black.webp" alt="urus black" />
-          </li>
-          <li>
-            <img
-              src="./images/huracan_sterrato_m.webp"
-              alt="huracan sterrato"
-            />
-          </li>
-          <li>
-            <img src="./images/revuelto_m.webp" alt="revuelto" />
+        <article>
+          <h2>Models</h2>
+          <h3>Urus</h3>
+          <p>Unlock any road</p>
+          <section class="section">
+            <ul>
+              <li id="a"><img src="./images/urus_black.webp" alt="Lambo urus black" /></li>
+              <li id="b"><img src="./images/huracan_sterrato_m.webp" alt="Lambo huracan Sterrato" /></li>
+              <li id="c"><img src="./images/revuelto_m.webp" alt="Revulto" /></li>
+            </ul>
+            
+            <nav>
+              <ul>
+                <li><a href="#a"><img src="./images/urus_black.webp" alt="Lambo Urus black link" /></a></li>
+                <li><a href="#b"><img src="./images/huracan_sterrato_m.webp" alt="Lambo huracan Sterrato link" /></a></li>
+                <li><a href="#c"><img src="./images/revuelto_m.webp" alt="Revulto link" /></a></li>
+              </ul>
+            </nav>
+          </section>
         </ul>
-        <button>Exoplore the models</button>
-        <button>Open car configurator</button>
+        <a href="#" aria-label="open page and explore the models">Exoplore the models</a>
+        <a href="#" aria-label="open page to configure your car">Open car configurator</a>
+      </article>
       </section>
 
       <section>
@@ -73,13 +76,12 @@
           <h3>Lamborghini World</h3>
           <ul>
             <li>
-              <img src="./images/Lamborghini World.webp" alt="lambo foto" />
+              <img src="./images/Lamborghini World.webp" alt="lambo foto"/>
             </li>
           </ul>
           <p><time datetime="2023-11-17">17 november 2023</time></p>
-          <button>Brand Extention</button>
-          <button>read more</button>
-          <h4>Lego x Lamborghini</h4>
+          <a href="#" aria-label="open page for brand extention">Brand Extention</a>
+          <h3>Lego x Lamborghini</h3>
           <p>
             Riccardo Parisi, BIW Exterior Technical Coordinator at Automobili
             Lamborghini, unveils the unconventional side of super sports car
@@ -88,6 +90,10 @@
         </article>
 
         <article>
+          <h3>
+            LAMBORGHINI UNVEILS THE HURACÁN STO SC 10° ANNIVERSARIO AT THE
+            LAMBORGHINI WORLD FINALS 2023 IN VALLELUNGA
+          </h3>
           <ul>
             <li>
               <img
@@ -97,46 +103,38 @@
             </li>
           </ul>
           <p><time datetime="2023-11-17">17 november 2023</time></p>
-          <button>Corporate</button>
-          <button>read more</button>
-          <h4>
-            LAMBORGHINI UNVEILS THE HURACÁN STO SC 10° ANNIVERSARIO AT THE
-            LAMBORGHINI WORLD FINALS 2023 IN VALLELUNGA
-          </h4>
+          <a href="#" aria-label="open page for corporate">Corporate</a>
         </article>
 
         <article>
+          <h3>LAMBORGHINI SUPPORTS MOVEMBER</h3>
           <ul>
             <li>
               <img src="./images/cover_m.webp" alt="lambo foto" />
             </li>
           </ul>
           <p><time datetime="2023-11-17">17 november 2023</time></p>
-          <button>Beyond</button>
-          <button>Revuelto</button>
-          <button>Stories</button>
-          <button>read more</button>
-          <h4>LAMBORGHINI SUPPORTS MOVEMBER</h4>
+          <a href="#" aria-label="open page and discover beyond lambo">Beyond</a>
         </article>
-        <button>See all</button>
+        <a href="#" aria-label="open page to View all news"><span>See All</span></a>
       </section>
     </main>
     <footer>
       <section>
         <ul>
-          <li><a href="#">Company</a></li>
-          <li><a href="#">Financials</a></li>
-          <li><a href="#">Careers</a></li>
-          <li><a href="#">Contact us</a></li>
-          <li><a href="#">Sustainability</a></li>
-          <li><a href="#">Media Center</a></li>
+          <li><a href="#" aria-label="open page for view company">Company</a></li>
+          <li><a href="#" aria-label="open page for view the financiels">Financials</a></li>
+          <li><a href="#" aria-label="open page for view the careers">Careers</a></li>
+          <li><a href="#" aria-label="open page for contact us">Contact us</a></li>
+          <li><a href="#" aria-label="open page for the sustainability">Sustainability</a></li>
+          <li><a href="#" aria-label="open page for the media center">Media Center</a></li>
         </ul>
         <ul>
-          <li><a href="#">Privacy & Legal</a></li>
-          <li><a href="#">Sitemap</a></li>
-          <li><a href="#">Accesbility</a></li>
-          <li><a href="#">Cookie settings</a></li>
-          <li><a href="#">Newsletter</a></li>
+          <li><a href="#" aria-label="open page for the rules Privacy and Legal">Privacy & Legal</a></li>
+          <li><a href="#" aria-label="open page for view the sitemap">Sitemap</a></li>
+          <li><a href="#" aria-label="open page for the accesbility">Accesbility</a></li>
+          <li><a href="#" aria-label="open page for view cookie settings">Cookie settings</a></li>
+          <li><a href="#" aria-label="open page for view the Newsletter">Newsletter</a></li>
         </ul>
       </section>
 
@@ -163,3 +161,6 @@
     <script defer src="scripts/script.js"></script>
   </body>
 </html>
+
+
+
