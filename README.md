@@ -245,15 +245,24 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  - Ik heb het zo goed mogelijk responsive gemaakt
+  - Heb een paar dingen verbeterd zoals de toegankelijkheid bijv. hoe je met html css en js een video kan laten pauzeren
+  - Ik heb een dark mode toegevoegd als je bijv. op je mac de instellingen zet voor dark mode dat dan het ook automtisch verschijnt op de site
+  - Heb geleerd hoe je met de custom properties werkt en hoe je ze kunt gebruiken
+  - Flex box en grid mee geoefend en toegepast
+  - Gespeeld met positionering (fixed, relative, absolute)
+  - De code zo aangepast dat de screenreader ook in volgorde gaat voorlezen
+  - De code zzo aangeopast dat de screenreader zinvolle woorden uitspreekt
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+
+  
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  - De a:visited state ik had het gebruikt maar dan was alles opeens een kleur geworden zonder ik erop had geklikt
+  - Flexbox in de footer kwam ik er half uit en half niet daar moest ik me meer nog op focussen
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  
 </details>
 
 
