@@ -270,6 +270,7 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   ### Dit was lastig/Is niet gelukt:
   - De a:visited state ik had het gebruikt maar dan was alles opeens een kleur geworden zonder ik erop had geklikt
   - Flexbox in de footer kwam ik er half uit en half niet daar moest ik me meer nog op focussen
+  - het gedeelte van de home pagina section 2 responsive te maken
 
   
 </details>
