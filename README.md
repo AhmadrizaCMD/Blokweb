@@ -268,8 +268,10 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
   Nb. Vermeld de bronnen ook in je code.
 
   1. Baha
-  2. Youtube: https://www.youtube.com/watch?v=GvyGNcUiJGQ
-  3. youutbe: https://www.youtube.com/watch?v=aNDqzlAKmZc&t=32s
-  4. chat GPT
+  2. chat GPT
+  3. Youtube: https://www.youtube.com/watch?v=GvyGNcUiJGQ
+  4. youutbe: https://www.youtube.com/watch?v=aNDqzlAKmZc&t=32s
+  5. https://css-tricks.com/dark-modes-with-css/ 
+
 
 </details>
