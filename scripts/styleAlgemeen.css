@@ -1,0 +1,198 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;
+  margin: 0%;
+  padding: 0%;  
+}
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+	--colortext: #202020;
+    --textcolorhf: aliceblue;
+    --letterspacingh2: 2px;
+    --active: grey;
+    --visited: red;
+}
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+  }
+
+@font-face {
+    font-family: 'Robotobold';
+    src: url(../fonts/Roboto-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: 'Robotolight';
+    src: url(../fonts/Roboto-Light.ttf);
+  }
+
+@font-face {
+    font-family: 'Robotomedium';
+    src: url(../fonts/Roboto-Medium.ttf);
+  }
+
+
+
+
+  /* code algemeen */
+
+h1{
+    font-size: 10px;
+}
+
+h1, h2{
+    font-family: 'Robotobold';
+}
+
+h2, h3, h4{
+    color: var(--colortext);
+    text-transform: uppercase;
+}
+
+h3
+{
+    font-family: 'Robotobold';
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 1.08;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    font-family: 'Roboto';
+}
+
+main section a{
+    font-family: 'Roboto-Regular';
+    background-color: var(--color-background);
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+p time{
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+a span{
+    display: inline-block;
+    text-align: center;
+    width: 20em;
+    padding: 1.5em;
+    background-color: var(--color-text);
+    color: var(--color-background);
+    font-size: 1em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+a span:hover{
+    background-color: var(--color-background);
+    color: var(--color-text);
+    transition-duration: 700ms;
+}
+
+a span:is(:active, :focus-visible){
+    background-color: var(--active);
+    padding: 1em;
+}
+
+
+/* code voor de header */
+
+header, footer{
+    background:var( --colortext);
+    color: var(--textcolorhf); 
+    padding: 1em;
+} 
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+  }
+
+header section:first-of-type img{
+    margin-left: 50%;
+}
+
+header section:last-of-type{
+  display: flex;
+  align-items: center;
+}
+
+.ham-menu{
+    order: 2;
+}
+
+header section:last-of-type img{
+    margin-left: 0.5;
+  }
+  
+header section img:nth-child(2), header section img:nth-child(3), header section img:nth-child(4){
+    width: 3.5em;
+    height: 3.5em;
+    margin-right: 1em;
+}
+
+p time{
+    font-family: 'Roboto';
+    color: var(--colortext);
+}
+
+
+/* code voor de footer */
+
+footer ul{
+    list-style: none;
+}
+
+footer ul li a{
+    color: var( --textcolorhf);
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+footer section{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+}
+
+footer p{
+    font-size: 0.9em;
+    line-height: 2.8rem;
+}
+
