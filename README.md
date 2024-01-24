@@ -276,6 +276,14 @@ tijdens het 1e voortgangsgesprek kon  iedereen zijn/haar vragen stellen en die w
 </details>
 
 
+  ### verbeterd voor de herkansing:
+
+  - Heb de media tags verminderd
+  - Heb de media tags op een goede volgorde gezet
+  - Heb gespeeld met de waardes zoals: vh, vw en %
+  - heb de css bestande gesplit in 3 bestanden zodat het overzichtelijker is
+  - heb mijn html verbeterd met semantische code
+
 
 
 
